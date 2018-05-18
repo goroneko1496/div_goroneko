@@ -1,2 +1,2 @@
 # div_goroneko
-チュートリアル用
+training_repository
